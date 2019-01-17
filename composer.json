@@ -16,4 +16,10 @@
     "require": {
         "php": ">=7.2"
     }
+    "autoload": {
+        "psr-4": {
+            "Yaroskov\\Data\\": "src/",
+            "Yaroskov\\Data\\Components": "src/Components/"
+        }
+    }
 }
