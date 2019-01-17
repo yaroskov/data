@@ -1,0 +1,19 @@
+{
+    "name": "yaroskov/data",
+    "description": "This is a data handler package",
+    "type": "library",
+    "require-dev": {
+        "php": ">=7.2"
+    },
+    "license": "GPL-3.0-only",
+    "authors": [
+        {
+            "name": "Yaroslav Kovalev",
+            "email": "yaroskov@yandex.ru"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=7.2"
+    }
+}
