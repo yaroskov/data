@@ -19,7 +19,7 @@
     "autoload": {
         "psr-4": {
             "Yaroskov\\Data\\": "src/",
-            "Yaroskov\\Data\\Components": "src/Components/"
+            "Yaroskov\\Data\\Components\\": "src/Components/"
         }
     }
 }
